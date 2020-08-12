@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Appointment": 7
+  },
+  "models": {
+    "Appointment": {
+      "1": "{\"name\":\"Lim Ah Kow\",\"location\":\"Sembawang\",\"dateTime\":\"December 17, 2020 14:00:00\",\"id\":1}",
+      "2": "{\"name\":\"Alvin Lee\",\"location\":\"Paya Lebar\",\"dateTime\":\"February 10, 2021 10:00:00\",\"id\":2}",
+      "3": "{\"name\":\"Ahmad\",\"location\":\"Mandai\",\"dateTime\":\"January 25, 2021 09:30:00\",\"id\":3}",
+      "4": "{\"name\":\"Ravi\",\"location\":\"Mandai\",\"dateTime\":\"Januart 11, 2021 09:00:00\",\"id\":4}",
+      "5": "{\"name\":\"Sean\",\"location\":\"Paya Lebar\",\"dateTime\":\"2020-08-12T07:19:36.024Z\",\"id\":5}",
+      "6": "{\"name\":\"Jackson\",\"location\":\"Sembawang\",\"dateTime\":\"2020-08-12T07:19:36.024Z\",\"id\":6}"
+    }
+  }
+}
